@@ -14,6 +14,8 @@ function max(x, y) {
 
 console.log(max(num1, num2));
 
+//If you need to know which cup is larger to hold more *enter drink of your choice*
+
 
 // 2.
 // Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
@@ -35,7 +37,7 @@ let z = 3
 
 console.log(maxOfThree(x,y,z));
 
-
+//to find the tallest person to reach on top of the fridge for *enter drink of your choice*
 
 // 3.
 // Write a function that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
@@ -53,6 +55,8 @@ function isVowel(char){
 
 console.log(isVowel('y'));
 
+//for someone learning english. they can enter the letter and find out if it is as vowel or not.
+
 // 4.
 // Write a function called `sum` that takes two parameters and returns the sum of those 2 numbers.
 // Then, write and example of using the function.
@@ -62,7 +66,7 @@ function sum(x, y){
 
 console.log(sum(1, 2));
 
-
+//to find out if you added one cup of *enter drink of your choice* to another cup of *enter drink of your choice* then how much of *enter drink of your choice* would you have?
 
 // 5.
 // Write a function named `avg` that takes 3 parameters and returns the average of those 3 numbers.
@@ -73,7 +77,7 @@ function avg(x, y, z){
 
 console.log(avg(1, 2, 3));
 
-
+//to find out your average daily intake of *enter your drink of choice* over a span of three days.
 
 
 // 6.
@@ -85,7 +89,7 @@ function getLength(x){
 
 console.log(getLength('stringalingdingding'));
 
-
+//to find out out many letters are in the name of *enter your drink of choice*
 
 // 7.
 // Write a function called `greaterThan` that takes two parameters
@@ -103,7 +107,7 @@ function greaterThan(x,y){
 
 console.log(greaterThan(2,5));
 
-
+//so you can compare the weight of one cup of *enter drink of your choice* to another.
 
 // 8.
 // Write a function called `greet` that takes a
@@ -118,6 +122,8 @@ function greet(x){
 
 console.log(greet('YO MAMA'));
 
+//to greet people to your website after they enter thier info.
+
 // 9.
 // Write a function called `madlib` that takes 4 or more parameters (words).
 // The function should insert the words into a pre-defined sentence.
@@ -131,3 +137,5 @@ function madlib(x,y,z,outofletters){
 }
 
 console.log(madlib('quick brown ','e','jumps over the fenc','fox '));
+
+//to make a madlib. duh.
